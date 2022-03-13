@@ -1,3 +1,4 @@
+<h3>Hakkımda</h3>
 - Selam! Ben Yunus.
 - Node JS, C#, React JS ve C++ İle ilgileniyorum
 <h3>Bana Ulaşabileceğiniz Yerler</h3>
