@@ -7,5 +7,3 @@
 <h3>Bana Ulaşabileceğiniz Yerler</h3>
 
 <a href="https://www.instagram.com/lostfxo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/881342328730714122)](https://discord.com/users/881342328730714122)
